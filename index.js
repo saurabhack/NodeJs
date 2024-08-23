@@ -1,0 +1,6 @@
+const {addition,multiplication,devision,substraction}=require("./operations")
+console.log(addition(1,2))
+console.log(multiplication(2,2))
+console.log(devision(5,2))
+console.log(substraction(3,1))
+console.log(addition)
